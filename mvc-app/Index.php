@@ -105,7 +105,7 @@
             <br>
             <br>
             <div class="form-actions">
-                <a  href="Home.php" id="btnLogin" onclick="ValidateLoginFields(event);" class="button primary">Sign In</a>
+                <a  href="home.php" id="btnLogin" onclick="ValidateLoginFields(event);" class="button primary">Sign In</a>
                 <div class="place-right">
                     <a href="#">Forgot Password?</a>
                 </div>              
